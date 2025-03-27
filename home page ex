@@ -4,7 +4,7 @@
         <title> "home page" </title>
     </head>
     <body>
-        <h1> "Welcome to our website" </h1>
-        <p> "This is the home page of our simple website Here you'll find an overview of what we offer and a guide to navigate the other sections of the site. </p>
+        <h1> "Welcome to your website" </h1>
+        <p> "This is the home page of your simple website Here we'll find an overview of what you"ll offer and a guide to navigate the other sections of the site. </p>
     </body>
     </html>
